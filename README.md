@@ -1,2 +1,2 @@
-# s3c
+# s3t
 segmentation using sst
